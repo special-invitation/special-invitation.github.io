@@ -53,7 +53,7 @@ background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
 	border-bottom-right-radius: 15px;
 }
 .spooky_bg {
-    background: url(./trip.jpeg) no-repeat center center;
+    background: url(./trip.jpeg) no-repeat ;
     background-size: cover;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -74,7 +74,7 @@ background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
         0 0
     );
     width: 100%;
-    height: 100vh; /* Adjust based on the container size */
+   /* height: 50vh; /*Adjust based on the container size */
 }
 
 .spooky_bg2 {
